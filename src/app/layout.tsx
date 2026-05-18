@@ -13,8 +13,8 @@ import { Open_Sans } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'PurePeptides | Pharmaceutical Grade Compounds',
-  description: 'The trusted source for high-potency, laboratory-certified peptides. Expertly synthesized compounds for advanced research applications.',
+  title: "PurePeptides | Pharmaceutical Grade Compounds",
+  description: "The trusted source for high-potency, laboratory-certified peptides. Expertly synthesized compounds for advanced research applications.",
   keywords: ["peptides, laboratory research, chemical synthesis, bpc-157, tb-500, pure compounds"],
   openGraph: {
     "title": "PurePeptides | Pharmaceutical Grade",
